@@ -1,0 +1,33 @@
+_repo: A-Preface-to-Politics_20125
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lippmann, Walter
+    birthdate: 1889
+    deathdate: 1974
+    gutenberg_agent_id: '2049'
+    url: http://www.gutenberg.org/2009/agents/2049
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Lippmann
+description: ''
+gutenberg_bookshelf: Politics
+gutenberg_issued: '2006-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20125'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social problems -- United States'
+- !lcc 'HN'
+- !lcsh 'United States -- Politics and government'
+tableOfContents: 'Introduction -- Routineer and inventor -- The taboo -- The changing
+  focus -- The golden rule and after -- Well meaning but unmeaning: the Chicago vice
+  report -- Some necessary iconoclasm -- The making of creeds -- The red herring --
+  Revolution and culture.'
+title: A Preface to Politics
+url: http://www.gutenberg.org/ebooks/20125
